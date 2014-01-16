@@ -1,0 +1,5 @@
+D:\Repo\ObserverDesignPattern\ObserverDesignPattern\bin\Debug\ObserverDesignPattern.exe
+D:\Repo\ObserverDesignPattern\ObserverDesignPattern\bin\Debug\ObserverDesignPattern.pdb
+D:\Repo\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.exe
+D:\Repo\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.pdb
+D:\Repo\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.csprojResolveAssemblyReference.cache
